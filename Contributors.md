@@ -1,7 +1,7 @@
 ﻿# Contributors
-  [Robert Bohn] (https://github.com/RobertBohn)
-  [Jack Corley] (https://github.com/Jdcorley)
-  [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
+- [Robert Bohn] (https://github.com/RobertBohn)
+- [Jack Corley] (https://github.com/Jdcorley)
+- [Pawan Kumar Jha] (https://github.com/88pawankumarjha)
 - [Brad Palmer](https://github.com/Digetal) 
 - [Tom (Four Zero Four)](https://github.com/four0000four)
 - [Gaayan Verma] (https://github.com/GaayanVerma)
@@ -12,8 +12,8 @@
 - [Joseph Rodrigues] (https://github.com/JostonR)
 - Robert
 - [Phatak Bhakti]
-  [Carlos Peña] I(https://github.com/cerl0z)
-  [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
+- [Carlos Peña] I(https://github.com/cerl0z)
+- [Himanshu Janbandhu](https://github.com/HimanshuJanbandhu)
 - [kalbernaz](https://github.com/kalbernaz11)
 - [Keyiyi](github.com/keyiyi)
 - [Kumar Saurabh](https://github.com/saurabh1969)
